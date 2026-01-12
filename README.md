@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 
 This project is an **Excel-based sales analysis dashboard** created using Blinkit sales data. The goal of this project is to **practice data analysis, visualization, and dashboard design** using Microsoft Excel. This project is part of my **learning phase** in Data Analytics.
-
 ---
 
 ## 🎯 Objective
