@@ -1,4 +1,4 @@
-# Blinkit-Sales-Analysis-Dashboard---Using---Excel
+# Blinkit-Sales-Analysis-Dashboard-Using-Excel
 
 ## 📌 Project Overview
 
