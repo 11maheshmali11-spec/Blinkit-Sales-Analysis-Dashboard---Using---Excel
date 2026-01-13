@@ -62,9 +62,29 @@ This project is an **Excel-based sales analysis dashboard** created using Blinki
 * Improving dashboard design for better readability
 
 ---
+ ##  Image & Video That Shows Dashboard 
+
+ 
 
 
 
+
+
+<img width="1411" height="687" alt="Screenshot 2026-01-12 180156" src="https://github.com/user-attachments/assets/2ebed166-6242-430e-8982-a004dfee0917" />
+
+https://github.com/user-attachments/assets/903ebac4-7f68-4842-be62-a3a7d5457a08
+
+
+
+
+
+
+
+
+
+
+ 
+ 
 
 
 
